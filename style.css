@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: #000080;
+}
+h2{
+    text-align: center;
+    color: #000080;
+}
+.header{
+    margin: 10mm;
+    background-color: #ffff00;
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+}
+.description{
+    margin: 0px;
+    text-align: center;
+    background-color: #00ffff;
+}
+.others{
+    background-color: #00fa9a;
+}
+.Otitle{
+    text-align: center;
+    background-color: #00ff00;
+}
+.item{
+    margin: 1%;
+    display: flex;
+    text-shadow: #b0e0e6;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.matter{
+    background-color: #f0e68c;
+}
+body {
+    background-color: #fa8072;
+}
